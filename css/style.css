@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    --bs-navbar-brand-font-size:2.25rem !important;
+} 
+
+.nav-link{
+    color: #222 !important;
+}
+
+.indexbg{
+    background-image: url(../images/indexslider1.jpg);
+    background-size: cover;
+}
+
+.font{
+    color: #fff !important;
+    font-size: 70px !important;
+}
+
+.padding{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
